@@ -6,7 +6,6 @@ So please sight sources if you took help from any online resource.
 */
 
 
-
 //IDs for all the table elements. You get the cell element just by using document.getElementById("A1")
 var table_ids = ["A1", "A2", "A3", "B1", "B2", "B3", "C1", "C2", "C3"];
 
